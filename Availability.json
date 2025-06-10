@@ -1,9 +1,5 @@
 [
   {
-    "ArrivalDate":"2025-05-24",
-    "DepartureDate":"2025-06-02"
-  },
-  {
     "ArrivalDate":"2025-06-28",
     "DepartureDate":"2025-07-12"
   },
@@ -32,8 +28,8 @@
     "DepartureDate":"2026-04-03"
   },
   {
-    "ArrivalDate":"2026-05-01",
-    "DepartureDate":"2026-05-27"
+    "ArrivalDate":"2026-04-23",
+    "DepartureDate":"2026-05-14"
   },
   {
     "ArrivalDate":"2026-10-31",
