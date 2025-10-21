@@ -20,6 +20,10 @@
     "DepartureDate":"2026-08-04"
   },
   {
+    "ArrivalDate":"2026-08-15",
+    "DepartureDate":"2026-08-30"
+  },
+  {
     "ArrivalDate":"2026-10-20",
     "DepartureDate":"2026-11-05"
   },
